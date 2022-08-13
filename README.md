@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **mkokaras/mkokaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙌 #### About Me
+🙌 ### About Me
 
 I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical and Computer Engineering, University of Thessaly.
 
@@ -23,6 +23,6 @@ I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical 
 
 👨‍💻 Throughout my studies, I've used multiple languages and frameworks such as **C, C++, Java, JavaScript, React, AngularJs, NodeJs, ExpressJS, Django, SQL** and **Mongo**. I am currently trying to master the fundamentals of web developing and exploring the best coding practices and the modern web developing tools.
 
-📫 #### How to reach me
+📫 ### How to reach me
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
