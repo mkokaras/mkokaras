@@ -23,7 +23,7 @@ I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical 
 
 👨‍💻 Throughout my studies, I've used multiple languages and frameworks such as **C, C++, Java, JavaScript, React, AngularJs, NodeJs, ExpressJS, Django, SQL** and **Mongo**. I am currently trying to master the fundamentals of web developing and exploring the best coding practices and the modern web developing tools.
 
-📝For my undergraduate thesis, I developed an [Anonymous Auction Protocol](https://github.com/mkokaras/anon-zether-auction) based on the Ethereum Blockchain using various cryptographic primitives, developed in NodeJs and Ethereum. 
+📝For my undergraduate thesis, I developed an [Anonymous Auction Protocol](https://github.com/mkokaras/anon-zether-auction) based on the Ethereum Blockchain using various cryptographic primitives, developed in NodeJs and Solidity.
 
 ### 📫 How to reach me
 
