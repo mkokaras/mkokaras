@@ -25,7 +25,7 @@ I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical 
 
 ### 📫 How to reach me
 
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kokaras/)
 
-[![linkedin](https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/mkokaras/mkokaras/edit/main/README.md)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/menelaos-kokaras-9a6618235)
 
