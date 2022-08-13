@@ -25,4 +25,4 @@ I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical 
 
 📫 ### How to reach me
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mkokaras/mkokaras/edit/main/README.md)]
