@@ -21,7 +21,7 @@ I am Menelaos Kokaras, I am a **Full Stack Developer** with a BSc in Electrical 
 
 🔭 I’m currently working on [Creative Technology Learning Labs](https://ctll.e-ce.uth.gr/) as a Full Stack Developer (using Angular, HTML, CSS, Typescript, NodeJs, ExpressJs, MongoDB, SQL and Docker).
 
-👨‍💻 Throughout my studies, I've used multiple languages and frameworks such as **C, C++, Java, JavaScript, React, AngularJs, NodeJs, ExpressJS, Django, SQL, Python, R, Solidity ** and **Mongo**. I am currently mastering the fundamentals of web developing and exploring the best coding practices and the modern web developing tools.
+👨‍💻 Throughout my studies, I've used multiple languages and frameworks such as **C, C++, Java, JavaScript, React, AngularJs, NodeJs, ExpressJS, Django, SQL, Python, R, Solidity** and **Mongo**. I am currently mastering the fundamentals of web developing and exploring the best coding practices and the modern web developing tools.
 
 📝For my undergraduate thesis, I developed an [Anonymous Auction Protocol](https://github.com/mkokaras/anon-zether-auction) based on the Ethereum Blockchain using various cryptographic primitives, developed in NodeJs and Solidity.
 
